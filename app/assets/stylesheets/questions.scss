@@ -1,0 +1,17 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+$green: rgba(224, 228, 228, 0.725);
+$background: rgba(239, 242, 232, 0.943);
+
+.coach {
+  background-color: $background;
+  width: 300px;
+  font-size: 16px;
+}
+
+.me {
+  background-color: $background;
+  width: 300px;
+  font-size: 16px;
+}
